@@ -1,0 +1,1 @@
+export { default as CardUsuarios } from "./CardUsuarios"
